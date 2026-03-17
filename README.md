@@ -1,6 +1,6 @@
 ## Hi, I'm Kate Chisom
 
-*As a Data Engineer;
+*
 I approach data engineering through a systems lens prioritizing - correctness, clarity, and thoughtful trade-offs to deliver dependable data infrastructure. I develop reliable, scalable data platforms that enable analytics, informed decision-making, that solves problems and make real impact.*
 
 ## WHAT I DO:
